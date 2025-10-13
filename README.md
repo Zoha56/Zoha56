@@ -2,12 +2,17 @@
 # ⭐About ME
 
 **NAME:** *Zoha Anjum*
+
 **University:** *University of the Punjab, DATA SCIENCE*
+
 My name is Zoha Anjum.I am pursuing a Bachelor's degree in Data Science from PUCIT. I have done my intermediate from Punjab Group of Colleges. 
 I have always been passionate and curious about networks, computers ,technology and how these things work together to impact the world.
+
 ## Interest and Goals 
+
 My interests are coding , problem solving and creativity.Apart from studies i also love watching and playing cricket. My goal is to develop impactful software solutions that empower people in Pakistan and across the world, while contributing to the growth of the global tech community.
 > Once a wise man said:
+>
 > **"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."** - *Elbert Hubbard*
 
 
