@@ -1,1 +1,45 @@
+![BLUE BANNER](https://cdn.pixabay.com/photo/2016/08/30/16/26/banner-1631296_1280.jpg)
+# ⭐About ME
 
+**NAME:** *Zoha Anjum*
+**University:** *University of the Punjab, DATA SCIENCE*
+My name is Zoha Anjum.I am pursuing a Bachelor's degree in Data Science from PUCIT. I have done my intermediate from Punjab Group of Colleges. 
+I have always been passionate and curious about networks, computers ,technology and how these things work together to impact the world.
+## Interest and Goals 
+My interests are coding , problem solving and creativity.Apart from studies i also love watching and playing cricket. My goal is to develop impactful software solutions that empower people in Pakistan and across the world, while contributing to the growth of the global tech community.
+> Once a wise man said:
+> **"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."** - *Elbert Hubbard*
+
+
+## 💻 Skills
+- C/C++
+- Python
+- Web Development
+- UI/UX design
+- Data Science
+  
+## 🔗My GitHub Repositories 
+> 1. [Website Projet](https://github.com/Zoha56/website-project) 
+> 2. [My first repository](https://github.com/Zoha56/my-first-repo)
+> 3. [Data Structures](https://github.com/Zoha56/Data_Structures)
+
+## 📊Github Stats
+![Zoha Anjum GitHub stats](https://github-readme 
+stats.vercel.app/api?username=Zoha56&show_icons=true&theme=radical) 
+
+## ✨Contact Me 
+- [Email](mailto:bsdsf24a016@pucit.edu.pk)
+- [LinkedIn](https://www.linkedin.com/in/zoha-anjum-3a2103373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+## ☑️Checklist of Goals:
+- [x] Getting admission in PUCIT
+- [x] Getting a Scholarship
+- [ ] Internship
+- [ ]  Starting a business
+
+## 📽️My Project
+| Project Name | Type | Explanation | Feature |
+| :--------    | :---:| :---------- | :----|
+|Cricket World | Website | A website made with using html, css and javascript | It gives information about upcoming cricket matches , updated rankings , teams and history of cricket|
+```python
+print("Markdown Assignment")
