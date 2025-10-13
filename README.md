@@ -29,8 +29,7 @@ My interests are coding , problem solving and creativity.Apart from studies i al
 > 3. [Data Structures](https://github.com/Zoha56/Data_Structures)
 
 ## 📊Github Stats
-![Zoha Anjum GitHub stats](https://github-readme 
-stats.vercel.app/api?username=Zoha56&show_icons=true&theme=radical) 
+![Zoha Anjum GitHub stats](https://github-readmestats.vercel.app/api?username=Zoha56&show_icons=true&theme=radical) 
 
 ## ✨Contact Me 
 - [Email](mailto:bsdsf24a016@pucit.edu.pk)
