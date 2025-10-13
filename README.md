@@ -1,4 +1,4 @@
-![BLUE BANNER](https://cdn.pixabay.com/photo/2016/08/30/16/26/banner-1631296_1280.jpg)
+![BLUE BANNER](https://tse2.mm.bing.net/th/id/OIP.9otGWsHZUo6joOqeENQd6AHaD2?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3)
 # ⭐About ME
 
 **NAME:** *Zoha Anjum*
