@@ -46,4 +46,5 @@ My interests are coding , problem solving and creativity.Apart from studies i al
 | :--------    | :---:| :---------- | :----|
 |Cricket World | Website | A website made with using html, css and javascript | It gives information about upcoming cricket matches , updated rankings , teams and history of cricket|
 ```python
-print("Markdown Assignment")
+print("Zoha Anjum")
+print("PUCIT'28")
