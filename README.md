@@ -45,6 +45,8 @@ My interests are coding , problem solving and creativity.Apart from studies i al
 | Project Name | Type | Explanation | Feature |
 | :--------    | :---:| :---------- | :----|
 |Cricket World | Website | A website made with using html, css and javascript | It gives information about upcoming cricket matches , updated rankings , teams and history of cricket|
+|Live Winner Predictor| Model | A website deveplod using EDA ,ML in python and enhancement using CSS | It can predict the winning percentage with required and current stats of chasing team based on both teams , venue , overs , wickets fallen of chasing team | 
 ```python
 print("Zoha Anjum")
 print("PUCIT'28")
+```
