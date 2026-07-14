@@ -27,6 +27,9 @@ My interests are coding , problem solving and creativity.Apart from studies i al
 > 1. [Website Projet](https://github.com/Zoha56/website-project) 
 > 2. [My first repository](https://github.com/Zoha56/my-first-repo)
 > 3. [Data Structures](https://github.com/Zoha56/Data_Structures)
+> 4. [Python](https://github.com/Zoha56/Python)
+> 5. [Live-Cricket-Winner-Predictor](https://github.com/Zoha56/Live-Cricket-Winner-Predictor)
+> 6. 
 
 ## 📊Github Stats
 ![Zoha Anjum GitHub stats](https://github-readmestats.vercel.app/api?username=Zoha56&show_icons=true&theme=radical) 
